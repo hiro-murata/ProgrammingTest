@@ -5,3 +5,7 @@
  　pip install requests requests_oauthlib
 
 ## 問2　サイト内のリンク（URL）を収集するクローラを作成してください  
+ 実行前に念のため、下記コマンドの実行をお願いします。  
+ 　pip install beautifulsoup4
+ 　pip lxml 
+  
